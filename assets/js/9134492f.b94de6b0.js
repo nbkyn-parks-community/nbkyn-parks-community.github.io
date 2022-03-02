@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknbkparks_community=self.webpackChunknbkparks_community||[]).push([[6194],{2873:function(n){n.exports=JSON.parse('{"allTagsPath":"/nbkparks-community/blog/tags","slug":"/nbkparks-community/blog/tags/hello","name":"hello","count":2,"permalink":"/nbkparks-community/blog/tags/hello"}')}}]);

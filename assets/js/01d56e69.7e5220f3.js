@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknbkparks_community=self.webpackChunknbkparks_community||[]).push([[144],{8843:function(s){s.exports=JSON.parse('{"allTagsPath":"/nbkparks-community/blog/tags","slug":"/nbkparks-community/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/nbkparks-community/blog/tags/docusaurus"}')}}]);
