@@ -1,5 +1,5 @@
 ---
-slug: Welcome 
+slug:  Open-Garden-Day-Planning Session-3-2-2022 
 title: Open Garden Day Planning Session 3/2/2022
 authors: [kcAlvey]
 tags: [open-garden-day, bike, community]
