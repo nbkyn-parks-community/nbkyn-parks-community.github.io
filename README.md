@@ -3,7 +3,7 @@
 # nbkparks-community
 # https://nbkparks.org/ @nbkparks/\*
 
-<img src="https://github.com/SamuelWitke/North-Brooklyn-Garden-Bike-Tour/blob/main/apps/nbkparks-bike-tour/src/assets/nbkparks.jpg?raw=true" align="left" width="160px" height="160px"/>
+<img src="https://github.com/nbkyn-parks-community/nbkyn-parks-community/blob/main/static/logo.png?raw=true" align="left" width="260px" height="260px"/>
 <img align="left" width="0" height="162px" hspace="10"/>
 
 [![Build and Deploy](https://github.com/SamuelWitke/nbkparks-community/actions/workflows/main.yml/badge.svg)](https://github.com/SamuelWitke/nbkparks-community/actions/workflows/main.yml)
@@ -11,22 +11,22 @@
 -----
 Our mission is to create an equitable, accessible, and vibrant parks & open space system in North Brooklyn.
 ---
+---
 
 <a target="_blank" href="https://calendar.google.com/event?tmeid=NmFxMmg3aHVkdmQ4OWoya2l2MHAyZHRqNzcgd2l0a2VzYW1AbQ&amp;tmsrc=witkesam%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
 ```
-$ yarn
+$ npm i
 ```
 
 ### Local Development
 
 ```
-$ yarn start
+$ npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -34,7 +34,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ yarn build
+$ npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
