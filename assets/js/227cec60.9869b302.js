@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknbkparks_community=self.webpackChunknbkparks_community||[]).push([[4836],{4728:function(n){n.exports=JSON.parse('[{"name":"brooklyn","permalink":"/gardens/tags/brooklyn","count":8}]')}}]);

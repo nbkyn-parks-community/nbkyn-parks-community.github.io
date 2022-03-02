@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknbkyn_parks_community=self.webpackChunknbkyn_parks_community||[]).push([[9761],{7013:function(e){e.exports=JSON.parse('{"permalink":"/getting-started","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
