@@ -1,7 +1,7 @@
 
 
 # nbkyn-parks-community
-# https://nbkparks.org/ @nbkparks/\*
+# https://nbkyn-parks-community.github.io/ @nbkyn-parks-community/\*
 
 <img src="https://github.com/nbkyn-parks-community/nbkyn-parks-community/blob/main/static/logo.png?raw=true" align="left" width="260px" height="260px"/>
 <img align="left" width="0" height="162px" hspace="10"/>
