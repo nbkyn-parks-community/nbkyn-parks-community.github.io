@@ -9,7 +9,7 @@ const config = {
   title: 'nbkparks-community',
   tagline: 'North Brooklyn Community Website',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/nbkparks-community/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://nbkparks.org/wp-content/themes/NBKPA-wp_v2.8.7/favicon/favicon-32x32.png',
