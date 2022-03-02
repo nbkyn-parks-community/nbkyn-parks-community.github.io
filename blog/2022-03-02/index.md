@@ -21,12 +21,11 @@ K.C.
 K.C.: Check in with the DOT about the idea of a map of all of the gardens for a future self-guided tour, in addition to the map for Open Garden Day 2022 specifically
 
 K.C. & Participating Gardens: Finalize the stops and bike route by <code>Tues. 3/15 to solidify with the DOT </code>
-
 Aim to have fewer formal stops and focus on connecting the gardens overall
-
 Check in about indicating public restrooms and Citibike stops on the map
-
 Reps from Powers Street & Red Shed Garden: Discuss the idea of a final event to conclude the route and see what members are interested in, access to power / bathrooms, etc.
+### [Current Map](https://www.google.com/maps/d/u/0/viewer?mid=17nYSWAgDGQOHC7chBfvalj1UAhuKJMlj&ll=40.714820807846145%2C-73.9447343518674&z=15)
+
 
 <code>Participating Gardens: By Fri. 4/1</code>, each garden participating in Open Garden Day 2022 should send in a short description and a couple of photos to K.C. and Sam (for print flyers about how to join the gardens and for Sam to add to the website)
 
