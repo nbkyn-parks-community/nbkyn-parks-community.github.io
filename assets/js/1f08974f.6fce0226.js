@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknbkparks_community=self.webpackChunknbkparks_community||[]).push([[5690],{4826:function(a){a.exports=JSON.parse('{"allTagsPath":"/nbkparks-community/blog/tags","slug":"/nbkparks-community/blog/tags/facebook","name":"facebook","count":1,"permalink":"/nbkparks-community/blog/tags/facebook"}')}}]);
