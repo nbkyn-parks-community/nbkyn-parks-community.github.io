@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknbkyn_parks_community=self.webpackChunknbkyn_parks_community||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Open Garden Day Planning Session 3/2/2022","permalink":"/blog/Welcome"},{"title":"Notes Session 3/2/2022","permalink":"/blog/notes-3-2-2022"}]}')}}]);
