@@ -53,9 +53,9 @@ export default function HomepageFeatures() {
       title: 'Share Info & Updates with Gardeners',
       description: (
         <p>
-          <code>open-sourced</code> means that the backend is avaialbe to the public to view in the
+          <code>open-sourced</code> means that the backend is available to the public to view in the
           {" "}
-          <a href='https://github.com/SamuelWitke/nbkparks-community'>
+          <a href='https://nbkyn-parks-community.github.io/'>
             source link.
           </a>
           If you want to make a update checkout the guides on each tab.

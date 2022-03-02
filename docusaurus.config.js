@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'nbkparks-community',
+  title: 'nbkyn-parks-community',
   tagline: 'North Brooklyn Community Website',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://nbkyn-parks-community.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://nbkparks.org/wp-content/themes/NBKPA-wp_v2.8.7/favicon/favicon-32x32.png',
   organizationName: 'nbkparks', // Usually your GitHub org/user name.
-  projectName: 'nbkparks-community', // Usually your repo name.
+  projectName: 'nbkyn-parks-community', // Usually your repo name.
 
   presets: [
     [
@@ -29,13 +29,13 @@ const config = {
           routeBasePath: "events",
           path: "events",
           // Please change this to your repo.
-          editUrl: 'https://github.com/SamuelWitke/nbkparks-community/edit/main/',
+          editUrl: '/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/SamuelWitke/nbkparks-community/edit/main/',
+            'https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -61,7 +61,7 @@ const config = {
          */
         path: './gardens/',
         editUrl:
-          'https://github.com/SamuelWitke/nbkparks-community/edit/main/',
+          'https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/edit/main/',
       },
     ],
     [
@@ -83,7 +83,7 @@ const config = {
          */
         path: './how-to&contributing',
         editUrl:
-          'https://github.com/SamuelWitke/nbkparks-community/edit/main/',
+          'https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/edit/main/',
       },
     ],
   ],
@@ -91,10 +91,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'nbkparks-community',
+        title: 'nbkyn-parks-community',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'logo.png',
         },
         items: [
           {
@@ -109,7 +109,7 @@ const config = {
           { to: '/blog', label: '📋 Community Board', position: 'left' },
           { to: '/getting-started', label: 'Getting Started 🚀', position: 'right' },
           {
-            href: 'https://github.com/SamuelWitke/nbkparks-community',
+            href: 'https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io',
             label: 'Source',
             position: 'right',
           },
@@ -144,13 +144,13 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/SamuelWitke/nbkparks-community',
+                label: 'Source',
+                href: 'https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/nbkyn-parks-community',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} nbkparks-community`,
+        copyright: `Copyright © ${new Date().getFullYear()} nbkyn-parks-community`,
       },
       prism: {
         theme: lightCodeTheme,

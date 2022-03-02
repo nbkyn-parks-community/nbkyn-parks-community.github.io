@@ -1,12 +1,12 @@
 
 
-# nbkparks-community
+# nbkyn-parks-community
 # https://nbkparks.org/ @nbkparks/\*
 
 <img src="https://github.com/nbkyn-parks-community/nbkyn-parks-community/blob/main/static/logo.png?raw=true" align="left" width="260px" height="260px"/>
 <img align="left" width="0" height="162px" hspace="10"/>
 
-[![Build and Deploy](https://github.com/SamuelWitke/nbkparks-community/actions/workflows/main.yml/badge.svg)](https://github.com/SamuelWitke/nbkparks-community/actions/workflows/main.yml)
+[![Build and Deploy](https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/actions/workflows/main.yml)
 [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 -----
 Our mission is to create an equitable, accessible, and vibrant parks & open space system in North Brooklyn.
