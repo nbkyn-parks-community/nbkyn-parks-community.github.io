@@ -29,7 +29,7 @@ const config = {
           routeBasePath: "events",
           path: "events",
           // Please change this to your repo.
-          editUrl: '/edit/main/',
+          editUrl: 'https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/edit/main/events/',
         },
         blog: {
           showReadingTime: true,
