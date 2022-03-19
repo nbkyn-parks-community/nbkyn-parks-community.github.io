@@ -13,6 +13,8 @@ Our mission is to create an equitable, accessible, and vibrant parks & open spac
 ---
 ---
 
+![Screen_Recording_2022-03-19_at_10_23_29_AM_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/22154417/159125058-14c9b3aa-9a47-4620-8350-5b910b43480f.gif)
+
 <a target="_blank" href="https://calendar.google.com/event?tmeid=NmFxMmg3aHVkdmQ4OWoya2l2MHAyZHRqNzcgd2l0a2VzYW1AbQ&amp;tmsrc=witkesam%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
