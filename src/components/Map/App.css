@@ -26,3 +26,73 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+/**
+ * ==============================================
+ * Dot Collision
+ * ==============================================
+ */
+ .dot-collision {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  padding: auto;
+  background-color: #00C897;
+  color: #00C897;
+}
+
+.dot-collision::before, .dot-collision::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+
+.dot-collision::before {
+  left: -10px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  padding: auto;
+  background-color: #019267;
+  color: #019267;
+  animation: dotCollisionBefore 2s infinite ease-in;
+}
+
+.dot-collision::after {
+  left: 10px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  padding: auto;
+  background-color: #019267;
+  color: #019267;
+  animation: dotCollisionAfter 2s infinite ease-in;
+  animation-delay: 1s;
+}
+
+@keyframes dotCollisionBefore {
+  0%,
+  50%,
+  75%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-15px);
+  }
+}
+
+@keyframes dotCollisionAfter {
+  0%,
+  50%,
+  75%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(15px);
+  }
+}
+

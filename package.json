@@ -21,6 +21,7 @@
     "@mdx-js/react": "^1.6.21",
     "cheerio": "^1.0.0-rc.10",
     "clsx": "^1.1.1",
+    "gsap": "^3.9.1",
     "jquery": "^3.6.0",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",

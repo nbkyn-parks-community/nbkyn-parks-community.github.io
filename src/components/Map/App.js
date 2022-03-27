@@ -208,7 +208,7 @@ export default class App extends Component {
                 let scale =
                   1 +
                   ((this.state.mapMaxScale - 1) / (this.state.mapScales - 1)) *
-                    i;
+                  i;
 
                 let map = createCanvas(mapWidth * scale, mapHeight * scale);
                 let mapCtx = map.getContext('2d', { alpha: false });
@@ -433,7 +433,7 @@ export default class App extends Component {
     let section = this.state.sections[sectionIndex];
     let nextSection =
       this.state.sections[
-        clamp(sectionIndex + 1, this.state.sections.length - 1)
+      clamp(sectionIndex + 1, this.state.sections.length - 1)
       ];
 
     let getNumericAttr = (el, attr, def = 1) => {
@@ -464,7 +464,7 @@ export default class App extends Component {
       let imageMapPos = Path.getPointAtPercent(
         this.state.trailSubdivisions,
         interpolate(image.mapPos, trailSegment.start, trailSegment.end) /
-          this.state.trailLength
+        this.state.trailLength
       );
 
       let halfWindowHeight = window.innerHeight / 2;
@@ -782,17 +782,17 @@ export default class App extends Component {
     let trailTipIndex = Math.round(trailPos / this.state.trailSubdivisionSize);
     let trailTip =
       this.state.trailSubdivisions[
-        clamp(trailTipIndex, this.state.trailSubdivisions.length - 1)
+      clamp(trailTipIndex, this.state.trailSubdivisions.length - 1)
       ];
     let trailTip2 =
       this.state.trailSubdivisions[
-        clamp(trailTipIndex - 1, this.state.trailSubdivisions.length - 1)
+      clamp(trailTipIndex - 1, this.state.trailSubdivisions.length - 1)
       ];
     let icon = this.state.sectionsIcons[sectionIndex];
 
     let mapSlice = this.getMapSliceAtPercent(
       interpolate(pos, cameraSegment.start, cameraSegment.end) /
-        this.state.cameraLength
+      this.state.cameraLength
     );
     let zoom = mapSlice.zoom;
     let inverseZoom = 1 / zoom;
@@ -853,7 +853,16 @@ export default class App extends Component {
     const { width, height } = this.state;
     return (
       <div className="main">
-        {!this.state.mapBuffer && <h1> Loading Image .... </h1>}
+        {!this.state.mapBuffer &&
+          <div>
+            <div class="snippet" data-title=".dot-collision">
+              <h2> Loading Image
+                <br/>
+                <div class="dot-collision"></div>
+              </h2>
+            </div>
+          </div>
+        }
         <div className="container-map">
           <canvas ref="canvas" width={width} height={height}></canvas>
         </div>
