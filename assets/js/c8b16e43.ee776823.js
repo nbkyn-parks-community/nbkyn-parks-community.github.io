@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknbkyn_parks_community=self.webpackChunknbkyn_parks_community||[]).push([[1999],{9612:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/bike","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

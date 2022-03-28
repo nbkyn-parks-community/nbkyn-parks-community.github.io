@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknbkyn_parks_community=self.webpackChunknbkyn_parks_community||[]).push([[9674],{7873:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/open-garden-day","name":"open-garden-day","count":2,"permalink":"/blog/tags/open-garden-day"}')}}]);
