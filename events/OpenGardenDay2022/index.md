@@ -8,9 +8,18 @@ toc_max_heading_level: 2
 ## (Work in Progress) Flyer 
 ![OGD-Flyer-R2](https://user-images.githubusercontent.com/22154417/161441702-bcf36c10-0250-45d2-ad15-9aef5b859cf3.png)
 
-
 > [Gardener Indicate Interest Here](https://docs.google.com/forms/d/e/1FAIpQLSdQ9Zseb1n3AU3Oep4GbkspgEc8hbi9WxOAlnr3p7L8kblpRA/viewform)
 
+This bike tour is part of Open Garden Day NYC on Saturday, June 4th, 2022.
+It will take you to a variety of GreenThumb community gardens and open spaces throughout North Brooklyn, including food-producing gardens, event spaces, and botanical spaces. With a long history of advocacy around environmental justice, community leaders in Los Sures, Williamsburg, and 
+Greenpoint have played a pivotal role in protecting and stewarding green spaces for all residents in North Brooklyn. 
+
+Many community gardens were created by residents on vacant lots that were scattered across New York City, particularly in Black and Brown neighborhoods at the height of disinvestment in the 1970s and 1980s. Today, these spaces are critical to the health, well-being, and cultural life of North Brooklyn. Come hear from stewards of community gardens and see what they are growing! 
+ 
+Community gardens are volunteer-run green spaces where people can come together around growing food and community. Gardens across the city are seeking new members to plant produce and flowers, host events, maintain community spaces, and contribute extra hands for garden projects!
+
+Beginners and experienced gardeners are welcome! 
+NYC Parks GreenThumb supports over 550 community gardens and 20,000 gardeners by providing gardening space, materials and supplies, and technical assistance at no cost. GreenThumb hosts innovative gardening workshops, trainings, and conferences. Learn more at [greenthumb.nycgovparks.org](https://greenthumb.nycgovparks.org/). 
 
 # [🗺️ Event Map Information](./Map.mdx)
 ### [Proposed Route Directions](https://www.google.com/maps/@39.7157659,-73.9608142,14z/data=!4m2!6m1!1s17nYSWAgDGQOHC7chBfvalj1UAhuKJMlj?authuser=1)
