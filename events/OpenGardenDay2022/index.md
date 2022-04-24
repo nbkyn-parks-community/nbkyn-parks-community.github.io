@@ -4,6 +4,19 @@ sidebar_position: 2
 toc_max_heading_level: 2
 ---
 # Upcoming Event on June 4th 2022 
+## Open Garden Day 2022
++ North Brooklyn
++ Saturday, June 4, 12 pm - 5 pm
++ Rain date: Sunday, June 5
+ 
+
+ 
+# Support From 
++ NYC Parks Green Thumb
++ NYC Dept. of Transportation
++ Transportation Alternatives
++ Citi Bike
+
 ---
 ## (Work in Progress) Flyer 
 ![OGD-Flyer-R2](https://user-images.githubusercontent.com/22154417/161441702-bcf36c10-0250-45d2-ad15-9aef5b859cf3.png)
@@ -22,6 +35,8 @@ Beginners and experienced gardeners are welcome!
 NYC Parks GreenThumb supports over 550 community gardens and 20,000 gardeners by providing gardening space, materials and supplies, and technical assistance at no cost. GreenThumb hosts innovative gardening workshops, trainings, and conferences. 
 
 Learn more at [greenthumb.nycgovparks.org](https://greenthumb.nycgovparks.org/). 
+
+
 
 # [🗺️ Event Map Information](./Map.mdx)
 ### [Proposed Route Directions](https://www.google.com/maps/@39.7157659,-73.9608142,14z/data=!4m2!6m1!1s17nYSWAgDGQOHC7chBfvalj1UAhuKJMlj?authuser=1)
