@@ -19,7 +19,9 @@ Many community gardens were created by residents on vacant lots that were scatte
 Community gardens are volunteer-run green spaces where people can come together around growing food and community. Gardens across the city are seeking new members to plant produce and flowers, host events, maintain community spaces, and contribute extra hands for garden projects!
 
 Beginners and experienced gardeners are welcome! 
-NYC Parks GreenThumb supports over 550 community gardens and 20,000 gardeners by providing gardening space, materials and supplies, and technical assistance at no cost. GreenThumb hosts innovative gardening workshops, trainings, and conferences. Learn more at [greenthumb.nycgovparks.org](https://greenthumb.nycgovparks.org/). 
+NYC Parks GreenThumb supports over 550 community gardens and 20,000 gardeners by providing gardening space, materials and supplies, and technical assistance at no cost. GreenThumb hosts innovative gardening workshops, trainings, and conferences. 
+
+Learn more at [greenthumb.nycgovparks.org](https://greenthumb.nycgovparks.org/). 
 
 # [🗺️ Event Map Information](./Map.mdx)
 ### [Proposed Route Directions](https://www.google.com/maps/@39.7157659,-73.9608142,14z/data=!4m2!6m1!1s17nYSWAgDGQOHC7chBfvalj1UAhuKJMlj?authuser=1)
