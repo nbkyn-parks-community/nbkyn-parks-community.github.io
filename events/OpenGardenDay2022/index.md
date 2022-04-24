@@ -4,9 +4,9 @@ sidebar_position: 2
 toc_max_heading_level: 2
 ---
 # Upcoming Event on June 4th 2022 
-## Open Garden Day 2022
+## Open Garden Day 2022 Bike Tour 
 + North Brooklyn
-+ Saturday, June 4, 12 pm - 5 pm
++ Saturday, June 4, 1pm - 5pm
 + Rain date: Sunday, June 5
  
 
