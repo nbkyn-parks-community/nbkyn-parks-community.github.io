@@ -4,13 +4,15 @@ sidebar_position: 2
 toc_max_heading_level: 2
 ---
 # Upcoming Event on June 4th 2022 
+# [Register on Eventbrite](https://www.eventbrite.com/e/north-brooklyn-gardens-bike-tour-tickets-329216935717?utm-campaign=social%2Cemail&utm-content=attendeeshare&utm-medium=discovery&utm-source=strongmail&utm-term=listing)
+ 
 ## Open Garden Day 2022 Bike Tour 
 + North Brooklyn
 + Saturday, June 4, 1pm - 5pm
 + Rain date: Sunday, June 5
  
 
- 
+
 # Support From 
 + NYC Parks Green Thumb
 + NYC Dept. of Transportation
@@ -21,7 +23,6 @@ toc_max_heading_level: 2
 ## (Work in Progress) Flyer 
 ![OGD-Flyer-R2](https://user-images.githubusercontent.com/22154417/161441702-bcf36c10-0250-45d2-ad15-9aef5b859cf3.png)
 
-> [Gardener Indicate Interest Here](https://docs.google.com/forms/d/e/1FAIpQLSdQ9Zseb1n3AU3Oep4GbkspgEc8hbi9WxOAlnr3p7L8kblpRA/viewform)
 
 This bike tour is part of Open Garden Day NYC on Saturday, June 4th, 2022.
 It will take you to a variety of GreenThumb community gardens and open spaces throughout North Brooklyn, including food-producing gardens, event spaces, and botanical spaces. With a long history of advocacy around environmental justice, community leaders in Los Sures, Williamsburg, and 
