@@ -3,7 +3,6 @@ title: 📅 2022 Garden Day - Bike Tour
 sidebar_position: 2
 toc_max_heading_level: 2
 ---
-# Event on June 4th 2022 
 # [Register on Eventbrite](https://www.eventbrite.com/e/north-brooklyn-gardens-bike-tour-tickets-329216935717?utm-campaign=social%2Cemail&utm-content=attendeeshare&utm-medium=discovery&utm-source=strongmail&utm-term=listing)
  
 ## Open Garden Day 2022 Bike Tour 
