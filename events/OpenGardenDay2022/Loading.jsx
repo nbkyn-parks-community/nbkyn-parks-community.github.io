@@ -1,14 +1,13 @@
 import React, { useEffect, useState } from "react";
 import useBaseUrl from "@docusaurus/useBaseUrl";
-import { fadeIn } from "react-animations";
-import styled, { keyframes } from 'styled-components';
+import { tada } from "react-animations";
+import styled, { keyframes } from "styled-components";
 
 
-const Animation = keyframes`${fadeIn}`;
+const Animation = keyframes`${tada}`;
 const Div = styled.div`
   animation: 1s ${Animation};
 `;
-
 
 export default function MyComponent() {
   const [bool, setBool] = useState(false);
@@ -16,9 +15,7 @@ export default function MyComponent() {
 
   return (
     <>
-        <Div>
-          {!bool && <img src={useBaseUrl("/OpenGardenDay2022.gif")} />}
-        </Div>
+      <Div>{!bool && <img src={useBaseUrl("/OpenGardenDay2022.gif")} />}</Div>
     </>
   );
 }
