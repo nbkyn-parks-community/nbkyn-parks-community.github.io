@@ -147,7 +147,7 @@ const config = {
 {name: 'og:image', content: 'https://user-images.githubusercontent.com/22154417/167321394-db3a8830-fd43-46cb-8c4d-8c72c2928f74.gif'},
 {name: 'og:title', content: 'North Brooklyn Parks'},
 {name: 'og:description', content: 'June 4th Open Garden Day!'},
-
+        {name: "twitter:image", content: "https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/blob/main/static/open-garden-day-2022/opg-bike.png?raw=true" }
 ],
       navbar: {
         title: 'nbkyn-parks-community',
