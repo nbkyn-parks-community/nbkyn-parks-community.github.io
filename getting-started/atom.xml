@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nbkyn-parks-community.github.io/getting-started</id>
     <title>nbkyn-parks-community Blog</title>
-    <updated>2022-05-09T00:59:44.000Z</updated>
+    <updated>2022-05-09T01:07:57.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nbkyn-parks-community.github.io/getting-started"/>
     <subtitle>nbkyn-parks-community Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Create a Blog Post]]></title>
         <id>/create-a-blog-post</id>
         <link href="https://nbkyn-parks-community.github.io/getting-started/create-a-blog-post"/>
-        <updated>2022-05-09T00:59:44.000Z</updated>
+        <updated>2022-05-09T01:07:57.000Z</updated>
         <summary type="html"><![CDATA[This website a page for each blog post, but also a blog index page, a tag system, an RSS feed...]]></summary>
         <content type="html"><![CDATA[<p>This website a <strong>page for each blog post</strong>, but also a <strong>blog index page</strong>, a <strong>tag system</strong>, an <strong>RSS</strong> feed...</p><h2 id="create-your-first-post">Create your first Post</h2><p>Create a file at <code>blog/2021-02-28-greetings.md</code>:</p><pre><code class="language-md" metastring="title=&quot;blog/2021-02-28-greetings.md&quot;" title="&quot;blog/2021-02-28-greetings.md&quot;">---
 slug: greetings
