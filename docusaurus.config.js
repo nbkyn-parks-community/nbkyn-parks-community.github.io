@@ -44,6 +44,7 @@ const config = {
     ],
   ],
   plugins: [
+      'docusaurus-plugin-google-adsense',
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -143,6 +144,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+       googleAdsense: {
+      dataAdClient: 'ca-pub-7562879925756352'
+    },
       metadata: [
 {name: 'og:image', content: 'https://user-images.githubusercontent.com/22154417/167321394-db3a8830-fd43-46cb-8c4d-8c72c2928f74.gif'},
 {name: 'og:title', content: 'North Brooklyn Parks'},
