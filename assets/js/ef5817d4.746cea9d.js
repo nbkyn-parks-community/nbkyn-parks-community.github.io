@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknbkyn_parks_community=self.webpackChunknbkyn_parks_community||[]).push([[3222],{2032:function(a){a.exports=JSON.parse('{"label":"bike","permalink":"/blog/tags/bike","allTagsPath":"/blog/tags","count":2}')}}]);
