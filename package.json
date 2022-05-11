@@ -18,6 +18,7 @@
     "@docusaurus/core": "^2.0.0-beta.16",
     "@docusaurus/plugin-content-blog": "^2.0.0-beta.16",
     "@docusaurus/plugin-pwa": "^2.0.0-beta.16",
+    "docusaurus-plugin-google-adsense": "^0.3.1",
     "@docusaurus/preset-classic": "^2.0.0-beta.16",
     "@mdx-js/react": "^1.6.21",
     "cheerio": "^1.0.0-rc.10",
@@ -45,7 +46,6 @@
   },
   "devDependencies": {
     "commitizen": "^4.2.4",
-     "docusaurus-plugin-google-adsense": "^0.3.1",
     "husky": "^7.0.4"
   },
   "config": {
