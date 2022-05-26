@@ -1,5 +1,9 @@
+---
+title: 📅 2022 Garden Day - 61 Franklin St
+sidebar_position: 2
+---
 # All Day! Garden Tours, Canned Food Drive with Food for Brooklyn, Face Painting, Kids Activities @[61 Franklin St](/gardens/Franklin)
-# 
+ 
 ![Screenshot 2022-05-25 215546](https://user-images.githubusercontent.com/22154417/170400829-c0072e84-b6ee-412e-a784-54d32d8462aa.png)
 
 All Day! Garden Tours, Canned Food Drive with Food for Brooklyn, Face Painting, Kids Activities
