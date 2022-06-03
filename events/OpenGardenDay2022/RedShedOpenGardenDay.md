@@ -1,5 +1,5 @@
 ---
-title: 📅 2022 Garden Day - Red Shed Community Garden
+title: 📅 Red Shed Community Garden
 sidebar_position: 2
 ---
 # Open Garden Day @[Red Shed Garden](/gardens/Red-Shed)

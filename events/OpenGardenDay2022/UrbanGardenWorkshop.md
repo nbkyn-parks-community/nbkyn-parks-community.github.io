@@ -1,5 +1,5 @@
 ---
-title: 📅 2022 Garden Day - Wolfie's Eagle Scout Project 
+title: 📅 Wolfie's Eagle Scout Project 
 sidebar_position: 2
 ---
 # Urban Gardening Workshop @[Powers Street Garden](/gardens/PowersSt)
