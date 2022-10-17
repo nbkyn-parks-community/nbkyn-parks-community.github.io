@@ -4,7 +4,8 @@ sidebar_position: 3
 
 # Halloween 2022
 ![Page 1](https://user-images.githubusercontent.com/22154417/196179195-89a1089c-5a3a-4fac-b1b1-2594b3b00697.png)
-Fall Festivities in North Brooklyn Gardens
+
+# Fall Festivities in North Brooklyn Gardens
 October 2022
 
 # Bulb Planting & Fall Clean-up Day at La Casita Verde Community Garden [need link] 
