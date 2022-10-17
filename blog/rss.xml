@@ -4,7 +4,7 @@
         <title>nbkyn-parks-community Blog</title>
         <link>https://nbkyn-parks-community.github.io/blog</link>
         <description>nbkyn-parks-community Blog</description>
-        <lastBuildDate>Mon, 17 Oct 2022 12:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 12:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[index]]></title>
             <link>https://nbkyn-parks-community.github.io/blog/index</link>
             <guid>/index</guid>
-            <pubDate>Mon, 17 Oct 2022 12:43:07 GMT</pubDate>
+            <pubDate>Mon, 17 Oct 2022 12:52:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
