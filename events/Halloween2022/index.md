@@ -21,7 +21,7 @@ _Join the gardeners at Java Street Garden for a Fall Party. There will be live m
 
 # *Goblins in the Garden at Lentol Garden [need link]*
 **Saturday, October 29, 2022 from 4:00 p.m. to 6:00 p.m. **
-178 Bayard Street, Brooklyn
+### 178 Bayard Street, Brooklyn
 
 _Halloween event in the garden for small kids and adults alike. We’ll be carving jack-o’-lanterns, making witches’ bouquets, and magical potions. Join us for costumes, treats and spooky activities. For more information about Lentol Garden, **[visit here](https://www.instagram.com/lentolgarden/?hl=en) **or contact lentolgarden@gmail.com. _
 
@@ -45,7 +45,7 @@ _Join the garden group at Powers Street Garden for a Halloween party with costum
 ### 303 Berry Street, Brooklyn
 _Join Berry Street Garden for their annual family-friendly Halloween event! This year will be the 18th year that they have decorated the garden with handmade decorations and themes, including animated characters and garden members dressed in costume. The garden group will be giving candies donated by the community. The front part of the garden will be child friendly and the back part of the garden will be a bit spookier for the older kids. Everyone is invited to come to Berry Street Garden on Halloween day! For more information about Berry Street Garden, **[visit here](https://www.facebook.com/BerryStreetGarden/).**_
 
-#*[Haunted Garden at 61 Franklin Street Garden](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/31/haunted-garden-at-61-franklin-street-garden)*
+# *[Haunted Garden at 61 Franklin Street Garden](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/31/haunted-garden-at-61-franklin-street-garden)*
 **Monday, October 31, 2022 from 6:00 p.m. to 8:00 p.m.**
 ### 61 Franklin Street, Brooklyn
 _Come Trick-or-Treat on Halloween with the Franklin Street Community Garden at our popular Haunted Garden and Bloody Shed! For more information about 61 Franklin Street Garden, **[visit here](https://61franklinstreetgarden.com/)** or contact 61franklinstgarden@gmail.com. _
