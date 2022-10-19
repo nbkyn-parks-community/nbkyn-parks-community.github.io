@@ -3,9 +3,7 @@ title: 📅 2022 Halloween 🎃
 sidebar_position: 2
 ---
 
-# Fall Festivities in No
-
-rth Brooklyn Gardens
+# Fall Festivities in North Brooklyn Gardens
 **October 2022**
 ![Page 1](https://user-images.githubusercontent.com/22154417/196774211-09858c64-6890-4d37-b7b2-3bacedd7c513.png)
 
