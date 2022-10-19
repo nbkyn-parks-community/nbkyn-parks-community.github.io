@@ -39,7 +39,7 @@ Red Shed Garden will be having our annual Fall party on Sunday, October 30th fro
 
 # *[Halloween Party at Powers Street Garden](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/30/halloween-party-at-powers-street-garden)*
 **Sunday, October 30, 2022 from 5:00 p.m. to 7:00 p.m.**
-### 276 Powers Street, Brooklyn \
+### 276 Powers Street, Brooklyn
 Join the garden group at Powers Street Garden for a Halloween party with costumes, candy, and fun! For more information about Powers Street Garden, **[visit here](https://www.instagram.com/powersstgarden/) **or contact powersstreetgarden@gmail.com**.  **_
 
 # *[Halloween Event at Berry Street Garden](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/31/halloween-event-at-berry-street-garden)*
