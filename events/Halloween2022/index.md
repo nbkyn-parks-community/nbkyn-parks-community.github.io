@@ -14,13 +14,13 @@ sidebar_position: 2
 
 Join the community coming together at Olive and Powers Street Gardens to plant daffodils and have a BBQ with end-of-season harvest. These gardens are down the block from each other! For more information about Olive Street Garden, **[visit here](https://www.instagram.com/olivestreetgarden/)** or contact olivestreetgardenbk@gmail.com. And for more information about Powers Street Garden, **[visit here](https://www.instagram.com/powersstgarden/) **or contact powersstreetgarden@gmail.com**.  **_
 
-# *Fall Party at Java Street Garden [need link]*
+# *[Fall Party at Java Street Garden](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/29/fall-party-at-java-st-community-garden)*
 **Saturday, October 29, 2022 from 2:00 p.m. to 5:00 p.m. **
 ### 59 Java Street, Brooklyn
 
 Join the gardeners at Java Street Garden for a Fall Party. There will be live music, food & drink, costumes and kid's activities. All are welcome! For more information about Java Street Garden, **[visit here](https://www.javastreetgarden.org/)** or contact javastgarden@gmail.com. _
 
-# *Goblins in the Garden at Lentol Garden [need link]*
+# *[Goblins in the Garden at Lentol Garden](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/29/halloween-event-at-lentol-garden)*
 **Saturday, October 29, 2022 from 4:00 p.m. to 6:00 p.m. **
 ### 178 Bayard Street, Brooklyn
 
@@ -31,7 +31,7 @@ Halloween event in the garden for small kids and adults alike. We’ll be carvin
 ### 229 North 12th Street, Brooklyn
 The Green Dome gardeners welcome you to join us for pumpkin carving. Bring a pumpkin, and we will provide tools and hot apple cider. For more information about Green Dome, **[visit here](https://www.instagram.com/greendome_garden/).**_
 
-# *Fall Party at Red Shed Garden [need link]*
+# *[Fall Party at Red Shed Garden](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/31/fall-harvest-party-at-red-shed-garden)*
 **Sunday, October 30, 2022 from 1:00 p.m. to 6:00 p.m.**
 ### 264-266 Skillman Avenue, Brooklyn
 Red Shed Garden will be having our annual Fall party on Sunday, October 30th from 1pm-6pm. There will be Halloween celebrations, pumpkin painting and more. All are welcome! For more information about Red Shed Garden, **[visit here](https://redshedgarden.com/)** or contact redshedcommunitygarden@gmail.com. _
