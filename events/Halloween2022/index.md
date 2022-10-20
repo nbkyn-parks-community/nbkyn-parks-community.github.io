@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Fall Festivities in North Brooklyn Gardens
 **October 2022**
-![Page 1](https://user-images.githubusercontent.com/22154417/196811756-94d6ce1e-ad67-4868-9204-d5cc1a163120.png)
+![Page 1](https://user-images.githubusercontent.com/22154417/197064696-36a8af95-4d5a-44ae-9abd-46ebd61791e2.png)
 
 
 # *[Meet & Greet at Olive and Powers Street Gardens](https://greenthumb.nycgovparks.org/gardenevents.html?qs=2022/10/22/meet-and-greet-at-olive-and-powers-street-gardens)*
