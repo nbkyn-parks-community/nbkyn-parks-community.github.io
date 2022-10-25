@@ -1,2 +1,2 @@
 
-![flyer](https://user-images.githubusercontent.com/22154417/197894149-37109fb3-dd16-4392-b315-a5cfc1b40363.png)
+![flyer](https://user-images.githubusercontent.com/22154417/197895697-dce0c954-e64a-4ce5-bfd3-d54dc755a9bd.png)
