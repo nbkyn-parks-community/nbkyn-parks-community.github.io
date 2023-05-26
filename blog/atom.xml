@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nbkyn-parks-community.github.io/blog</id>
     <title>nbkyn-parks-community Blog</title>
-    <updated>2023-05-26T00:26:37.000Z</updated>
+    <updated>2023-05-26T00:26:52.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nbkyn-parks-community.github.io/blog"/>
     <subtitle>nbkyn-parks-community Blog</subtitle>
@@ -11,6 +11,6 @@
         <title type="html"><![CDATA[index]]></title>
         <id>/index</id>
         <link href="https://nbkyn-parks-community.github.io/blog/index"/>
-        <updated>2023-05-26T00:26:37.000Z</updated>
+        <updated>2023-05-26T00:26:52.000Z</updated>
     </entry>
 </feed>
