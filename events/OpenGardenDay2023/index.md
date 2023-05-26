@@ -6,7 +6,7 @@ toc_max_heading_level: 2
 
 # **Open Garden Day in North Brooklyn:**
 
-### We are now SOLD OUT for the [Bike Tour](/events/OpenGardenDay2023/BikeTour/)! 
+### [Bike Tour](/events/OpenGardenDay2023/BikeTour/)! 
 
 ## Below are details about additional events happening in North Brooklyn as part of the [Sixth Annual Open Garden Day NYC](https://www.nycgovparks.org/events/open-garden-nyc). 
 
