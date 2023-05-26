@@ -34,8 +34,8 @@ Please make sure to bring a smartphone with the CitiBike app downloaded on to yo
 
 
 ## Flyer
-![flyer](https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/assets/22154417/f98b95e6-1dc9-48b0-8828-34c403c6c10d)
-![Flyer (spanish)](https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/assets/22154417/a41ca38b-9c81-435f-9a1e-ec37d4740c5b)
+![open garden day spanish](https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/assets/22154417/9cb04214-3195-4b7a-9145-1cdb295aab29)
+![open garden day](https://github.com/nbkyn-parks-community/nbkyn-parks-community.github.io/assets/22154417/751399e7-c423-4eb9-98de-8105de6925bb)
 
 This bike tour is part of Open Garden Day NYC on Sunday, June 4th, 2023.
 It will take you to a variety of GreenThumb community gardens and open spaces throughout North Brooklyn, including food-producing gardens, event spaces, and botanical spaces. With a long history of advocacy around environmental justice, community leaders in Los Sures, Williamsburg, and
